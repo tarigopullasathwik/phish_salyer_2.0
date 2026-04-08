@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.venv
+.env
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Local data (if any)
+backend/db/*.sqlite3
+
+# Node.js
+node_modules/
+dist/
+.DS_Store
